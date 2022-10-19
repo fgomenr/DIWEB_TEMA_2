@@ -4,4 +4,6 @@ body {
 
 p {
   background-color: yellowgreen;
+  font-family: Arial;
+  font-size: 30px;
 }
