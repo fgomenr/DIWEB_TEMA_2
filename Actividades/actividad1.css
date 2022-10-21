@@ -1,0 +1,29 @@
+h1,h2,h3{
+
+    color: #FF5733;
+
+    font-family: Arial;
+
+    font-weight: bold;
+
+}
+
+
+
+h1{
+
+    font-size: 20px;
+
+}
+
+h2{
+
+    font-size: 80%;
+
+}
+
+h3{
+
+    font-size: 3em;
+
+}
