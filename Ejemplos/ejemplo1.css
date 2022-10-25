@@ -1,9 +1,6 @@
-body {
-  background-color: blueviolet;
-}
 
-p {
-  background-color: yellowgreen;
-  font-family: Arial;
-  font-size: 30px;
+p.rojo{
+
+  background-color: red;
+
 }
