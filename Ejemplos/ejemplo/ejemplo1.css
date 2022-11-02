@@ -1,0 +1,56 @@
+
+body{
+
+  background-image: url(/tema2/Ejemplos/Propiedades/margin\,padding/costomar.png);
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  background-attachment: fixed;
+}
+
+h1{
+
+  font-size: 250%;
+  font-family: "Sofia", 'Times New Roman', Times, serif;
+  font-style: italic;
+  background-color:violet;
+  opacity: 0.8;
+  color: darkred;
+  text-align: center;
+  text-transform: uppercase;
+  text-shadow :  6px 9px 5px red;
+}
+
+p{
+
+
+  text-indent: 40px;
+  font-family: "Roboto", 'Times New Roman', Times, serif;
+
+  font-size:1em;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+
+  color: rgb(0,255,0);
+
+}
+
+
+em{
+
+color:#000080;
+text-decoration: underline;
+
+text-transform: capitalize;
+
+
+}
+
+img.a {
+  vertical-align: super;
+}
+
+
+a{
+
+  text-decoration: none;
+}
