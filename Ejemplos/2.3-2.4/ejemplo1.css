@@ -1,11 +1,10 @@
 
 body{
 
-  background-image: url(./Propiedades/margin\,padding/costomar.png);
+  background-image: url(/tema2/Ejemplos/Propiedades/margin\,padding/costomar.png);
   background-repeat: no-repeat;
   background-position: center bottom;
   background-attachment: fixed;
-
 }
 
 h1{
@@ -38,9 +37,3 @@ color:#000080;
 
 }
 
-em{
-
-color:hsl(240, 100, 25);
-
-
-}
