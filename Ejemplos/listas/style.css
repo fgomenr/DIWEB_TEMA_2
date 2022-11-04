@@ -1,0 +1,9 @@
+ol{
+    background-color: gainsboro;
+
+    border-left: 5px solid red;
+    list-style-type: decimal-leading-zero;
+    padding-top: 5px; 
+    padding-bottom: 5px; 
+   
+}
