@@ -1,0 +1,5 @@
+table,tr,th,td{
+    background-color: gainsboro;
+    border: 5px solid red;
+   border-collapse: collapse;
+}
